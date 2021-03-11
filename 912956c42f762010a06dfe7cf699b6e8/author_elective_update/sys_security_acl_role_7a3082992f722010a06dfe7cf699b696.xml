@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-09 02:46:04</sys_created_on>
+        <sys_id>7a3082992f722010a06dfe7cf699b696</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_571616_world_gla_test_xxxx.x_571616_world_gla.test_xxxx_user</sys_name>
+        <sys_package display_value="World Glaciers Spoke" source="x_571616_world_gla">912956c42f762010a06dfe7cf699b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="World Glaciers Spoke">912956c42f762010a06dfe7cf699b6e8</sys_scope>
+        <sys_security_acl display_value="x_571616_world_gla_test_xxxx">ea3082992f722010a06dfe7cf699b693</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7a3082992f722010a06dfe7cf699b696</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-09 02:46:04</sys_updated_on>
+        <sys_user_role display_value="x_571616_world_gla.test_xxxx_user" name="x_571616_world_gla.test_xxxx_user">d6308e1d2f322010a06dfe7cf699b66d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="World Glaciers Spoke">912956c42f762010a06dfe7cf699b6e8</application>
+        <file_path/>
+        <instance_id>3a8e3dbbdba8b700387021c4059619f5</instance_id>
+        <instance_name>dev79630</instance_name>
+        <name>sys_security_acl_role_7a3082992f722010a06dfe7cf699b696</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-09 02:46:04</sys_created_on><sys_id>7a3082992f722010a06dfe7cf699b696</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_571616_world_gla_test_xxxx.x_571616_world_gla.test_xxxx_user</sys_name><sys_package display_value="World Glaciers Spoke" source="x_571616_world_gla">912956c42f762010a06dfe7cf699b6e8</sys_package><sys_policy/><sys_scope display_value="World Glaciers Spoke">912956c42f762010a06dfe7cf699b6e8</sys_scope><sys_security_acl display_value="x_571616_world_gla_test_xxxx">ea3082992f722010a06dfe7cf699b693</sys_security_acl><sys_update_name>sys_security_acl_role_7a3082992f722010a06dfe7cf699b696</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-09 02:46:04</sys_updated_on><sys_user_role display_value="x_571616_world_gla.test_xxxx_user" name="x_571616_world_gla.test_xxxx_user">d6308e1d2f322010a06dfe7cf699b66d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1285557734</payload_hash>
+        <record_name>x_571616_world_gla_test_xxxx.x_571616_world_gla.test_xxxx_user</record_name>
+        <reverted_from/>
+        <source>992952882f762010a06dfe7cf699b6ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-09 02:46:04</sys_created_on>
+        <sys_id>b23082992f722010a06dfe7cf699b699</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17814e090dc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-09 02:46:04</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>fa308299e6722010721148a635028798</update_guid>
+        <update_guid_history>fa308299e6722010721148a635028798:-1285557734</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_571616_world_gla_test_xxxx.x_571616_world_gla.test_xxxx_user">769b27612ff22010a06dfe7cf699b678</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 05:13:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>4593cb52a62145e2a407c11139bd1921</sys_id>
+        <sys_metadata>7a3082992f722010a06dfe7cf699b696</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_571616_world_gla_test_xxxx.x_571616_world_gla.test_xxxx_user</sys_name>
+        <sys_package display_value="World Glaciers Spoke" source="x_571616_world_gla">912956c42f762010a06dfe7cf699b6e8</sys_package>
+        <sys_parent display_value="">ea3082992f722010a06dfe7cf699b693</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="World Glaciers Spoke">912956c42f762010a06dfe7cf699b6e8</sys_scope>
+        <sys_scope_delete display_value="">01459f48d2ee4e84b729399929ed4390</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_7a3082992f722010a06dfe7cf699b696</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_7a3082992f722010a06dfe7cf699b696">b23082992f722010a06dfe7cf699b699</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 05:13:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
